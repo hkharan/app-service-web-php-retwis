@@ -1,6 +1,6 @@
 <div id="welcomebox">
 <div id="registerbox">
-<h2>Register!</h2>
+<h2>Register! (Changed content)</h2>
 <b>Want to try Retwis? Create an account!</b>
 <form method="POST" action="register.php">
 <table>
