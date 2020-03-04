@@ -5,7 +5,7 @@
 <form method="POST" action="register.php">
 <table>
 <tr>
-  <td>Username (Training updates)</td><td><input type="text" name="username"></td>
+  <td>Username (Training updates - auto-swap)</td><td><input type="text" name="username"></td>
 </tr>
 <tr>
   <td>Password</td><td><input type="password" name="password"></td>
